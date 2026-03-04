@@ -5,3 +5,5 @@ mne>=1.0
 ripser>=0.6
 persim>=0.3
 requests>=2.25
+PyQt5>=5.15
+matplotlib>=3.5
