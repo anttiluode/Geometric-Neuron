@@ -1,5 +1,7 @@
 # Geometric Neuron
 
+EDIT: Added Addendum of recent attempts to think of this, also the holographic search.py
+
 **The brain computes through geometry, not weights. Here is the evidence.**
 
 This repository presents the Deerskin Architecture — a biologically grounded model of neural computation — and its empirical validation through clinical EEG analysis. The headline result: we distinguished schizophrenic brains from healthy controls using only phase-space geometry and topology, with zero machine learning and rigorous ICA artifact rejection.
