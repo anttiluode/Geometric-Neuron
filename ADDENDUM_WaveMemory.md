@@ -2,6 +2,8 @@
 
 ## The Instanton Jump, Phase-Encoded Storage, and the Limits of Analog Memory
 
+![search](./search1.png)
+
 **Antti Luode** — PerceptionLab, Independent Research, Finland  
 **Claude (Anthropic, Claude Sonnet 4.6)** — Mathematical formalization  
 March 2026
