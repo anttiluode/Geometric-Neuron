@@ -2,6 +2,14 @@
 
 EDIT: Added Addendum of recent attempts to think of this, also the holographic search.py
 
+EDIT: Added working Moire Attention code : 
+
+moire_attention_gpt2.py and moire_llm_chat.py plus paper: PAPER_MoireAttention
+
+That allows you to chat with U1 gauge field that has been frozen. The trainer (moire attention gpt2) loads 
+wiki text and trains on that. I trained it for 3 and 5 epochs where it beat standard transformer slightly. 
+It produces text and seems to hone in on the semantic space. To make it talk it would have to be taught more. 
+
 **The brain computes through geometry, not weights. Here is the evidence.**
 
 This repository presents the Deerskin Architecture — a biologically grounded model of neural computation — and its empirical validation through clinical EEG analysis. The headline result: we distinguished schizophrenic brains from healthy controls using only phase-space geometry and topology, with zero machine learning and rigorous ICA artifact rejection.
