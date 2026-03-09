@@ -1,5 +1,14 @@
 # Geometric Neuron
 
+Edit: Moire forme LLM with weights and huggingface space is now up: 
+
+https://huggingface.co/spaces/Aluode/MoireFormer-Chat (It is a very small model that is not very coherent, 
+but more a proof that it works)
+
+New github for its trainer and chat: 
+
+https://github.com/anttiluode/MoireFormer
+
 EDIT: Added Addendum of recent attempts to think of this, also the holographic search.py
 
 EDIT: Added working Moire Attention code : 
