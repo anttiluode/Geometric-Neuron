@@ -39,7 +39,7 @@ This repository contains a collection of experimental scripts used to simulate a
 * **`holographic_search.py`** - Proves that high-dimensional associative recall can happen simultaneously via wave interference, without needing iterative search algorithms.
 
 ### 3. Early AI Integration
-* **`moire_attention_gpt2.py`** - The very first successful injection of Moiré wave math into a standard GPT-2 attention head. (For the fully scaled version, see the [MoireFormer repo](https://github.com/anttiluode/MoireFormer137MillionP)).
+* **`moire_attention_gpt2.py`** - The very first successful injection of Moiré wave math into a standard GPT-2 attention head. 
 
 ---
 
