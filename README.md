@@ -7,7 +7,9 @@ but more a proof that it works)
 
 New github for its trainer and chat: 
 
-https://github.com/anttiluode/MoireFormer
+https://github.com/anttiluode/MoireFormer (106 million parameters \ 15 epochs of random datasets one after another) 
+
+https://huggingface.co/spaces/Aluode/MoireFormer137MillionP (137 million parameters \ 10 epochs of mixed data) 
 
 EDIT: Added Addendum of recent attempts to think of this, also the holographic search.py
 
