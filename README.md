@@ -1,8 +1,6 @@
 # Geometric Neuron
 
-Edit: Moire forme LLM with weights and huggingface space is now up: 
-
-New github for its trainer and chat: 
+EDIT: New Github and huggingface Space where you can try it live: 
 
 https://github.com/anttiluode/MoireFormer 
 
