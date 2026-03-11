@@ -2,12 +2,9 @@
 
 Edit: Moire forme LLM with weights and huggingface space is now up: 
 
-https://huggingface.co/spaces/Aluode/MoireFormer-Chat (It is a very small model that is not very coherent, 
-but more a proof that it works)
-
 New github for its trainer and chat: 
 
-https://github.com/anttiluode/MoireFormer (106 million parameters \ 15 epochs of random datasets one after another) 
+https://github.com/anttiluode/MoireFormer 
 
 https://huggingface.co/spaces/Aluode/MoireFormer137MillionP (137 million parameters \ 10 epochs of mixed data) 
 
